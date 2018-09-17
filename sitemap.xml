@@ -3,12 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sch00lb0y.github.io/post/simple_worker_in_rust/</loc>
+    <lastmod>2018-09-17T12:35:46+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sch00lb0y.github.io/</loc>
+    <lastmod>2018-09-17T12:35:46+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sch00lb0y.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sch00lb0y.github.io/post/</loc>
+    <lastmod>2018-09-17T12:35:46+05:30</lastmod>
     <priority>0</priority>
   </url>
   
